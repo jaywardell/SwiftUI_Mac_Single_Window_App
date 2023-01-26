@@ -10,7 +10,7 @@ import SwiftUI
 @main
 struct SwiftUI_Mac_Single_Window_AppApp: App {
     var body: some Scene {
-        WindowGroup {
+        Window("A Single-Window App", id: "Single Window App") {
             ContentView()
         }
     }
