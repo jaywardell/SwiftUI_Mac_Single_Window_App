@@ -13,5 +13,6 @@ struct SwiftUI_Mac_Single_Window_AppApp: App {
         Window("A Single-Window App", id: "Single Window App") {
             ContentView()
         }
+        .windowResizability(.contentSize)
     }
 }
