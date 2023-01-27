@@ -22,7 +22,8 @@ This isn't done with hacks.  It's actually a feature of SwiftUI on macOS.
 
 You get all of this behavior for free when you use the Window scene instead of WindowGroup.
 
-You can read all about it at the following blog post.
+You can see all the changes you need in SwiftUI_Mac_Single_Window_AppApp.swift,
+or you can read all about it at the following blog post.
 """
     
     // TODO: put up a real blog post and update this URL
