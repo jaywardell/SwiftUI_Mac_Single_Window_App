@@ -4,5 +4,5 @@ The question sometimes comes up: How can you effectively create a mac app in Swi
 
 I wrote a little blog post about this [here](https://www.optionalmap.com/posts/swiftui_single_window_app/).
 
-Or you can just have a look at the file SwiftUI_Mac_Single_Window_AppApp.swift
+Or you can just have a look at the file SwiftUI_Mac_Single_Window_App.swift
 
