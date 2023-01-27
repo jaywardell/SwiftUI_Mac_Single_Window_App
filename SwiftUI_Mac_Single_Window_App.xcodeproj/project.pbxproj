@@ -20,6 +20,7 @@
 		7C8BF4432982241D00D33069 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C8BF4462982241D00D33069 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7C8BF4482982241D00D33069 /* SwiftUI_Mac_Single_Window_App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUI_Mac_Single_Window_App.entitlements; sourceTree = "<group>"; };
+		7C8BF46929843FA800D33069 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		7C8BF4332982241A00D33069 = {
 			isa = PBXGroup;
 			children = (
+				7C8BF46929843FA800D33069 /* README.md */,
 				7C8BF43E2982241B00D33069 /* SwiftUI_Mac_Single_Window_App */,
 				7C8BF43D2982241B00D33069 /* Products */,
 			);
