@@ -26,7 +26,7 @@ You can read all about it at the following blog post.
 """
     
     // TODO: put up a real blog post and update this URL
-    let blogpostURL = URL(string: "https://jaywardell.me")!
+    let blogpostURL = URL(string: "https://www.optionalmap.com/posts/swiftui_single_window_app/")!
     
     var body: some View {
         VStack(alignment: .leading) {
