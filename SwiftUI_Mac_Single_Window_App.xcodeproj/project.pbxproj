@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7C8BF4402982241B00D33069 /* SwiftUI_Mac_Single_Window_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_AppApp.swift */; };
+		7C8BF4402982241B00D33069 /* SwiftUI_Mac_Single_Window_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_App.swift */; };
 		7C8BF4422982241B00D33069 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8BF4412982241B00D33069 /* ContentView.swift */; };
 		7C8BF4442982241D00D33069 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8BF4432982241D00D33069 /* Assets.xcassets */; };
 		7C8BF4472982241D00D33069 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C8BF4462982241D00D33069 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		7C8BF43C2982241B00D33069 /* SwiftUI_Mac_Single_Window_App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Mac_Single_Window_App.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Mac_Single_Window_AppApp.swift; sourceTree = "<group>"; };
+		7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Mac_Single_Window_App.swift; sourceTree = "<group>"; };
 		7C8BF4412982241B00D33069 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C8BF4432982241D00D33069 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C8BF4462982241D00D33069 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		7C8BF43E2982241B00D33069 /* SwiftUI_Mac_Single_Window_App */ = {
 			isa = PBXGroup;
 			children = (
-				7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_AppApp.swift */,
+				7C8BF43F2982241B00D33069 /* SwiftUI_Mac_Single_Window_App.swift */,
 				7C8BF4412982241B00D33069 /* ContentView.swift */,
 				7C8BF4432982241D00D33069 /* Assets.xcassets */,
 				7C8BF4482982241D00D33069 /* SwiftUI_Mac_Single_Window_App.entitlements */,
@@ -142,7 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C8BF4422982241B00D33069 /* ContentView.swift in Sources */,
-				7C8BF4402982241B00D33069 /* SwiftUI_Mac_Single_Window_AppApp.swift in Sources */,
+				7C8BF4402982241B00D33069 /* SwiftUI_Mac_Single_Window_App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

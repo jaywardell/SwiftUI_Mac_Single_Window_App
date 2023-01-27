@@ -1,5 +1,5 @@
 //
-//  SwiftUI_Mac_Single_Window_AppApp.swift
+//  SwiftUI_Mac_Single_Window_App.swift
 //  SwiftUI_Mac_Single_Window_App
 //
 //  Created by Joseph Wardell on 1/25/23.
@@ -10,7 +10,7 @@ import SwiftUI
 
 
 @main
-struct SwiftUI_Mac_Single_Window_AppApp: App {
+struct SwiftUI_Mac_Single_Window_App: App {
     
     // this line gives us the rest of the features we need
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
